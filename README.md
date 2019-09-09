@@ -17,11 +17,12 @@
 
 <h1>Wordpress design </h1>
 !.pruject -> http://www.harcci.com/<br>
-2.project -> 
+2.project -> https://bavlcentral.org <br>
+3. Project ->https://abedinbazar.com
 
 
 <h1>PHP</h1>
-1.laravel pruject Running->http://abedinfashion.com/abedinbazar/public
-1.PHP CURD-> https://github.com/sk211/PHP_CRUD<br>
+1.laravel pruject Running->http://abedinfashion.com/abedinbazar/public <br>
+2.PHP CURD-> https://github.com/sk211/PHP_CRUD<br>
 
 
