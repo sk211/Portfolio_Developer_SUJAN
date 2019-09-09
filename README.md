@@ -21,6 +21,7 @@
 
 
 <h1>PHP</h1>
+1.laravel pruject Running->http://abedinfashion.com/abedinbazar/public
 1.PHP CURD-> https://github.com/sk211/PHP_CRUD<br>
 
 
